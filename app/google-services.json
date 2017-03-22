@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "55933705627",
+    "firebase_url": "https://luka-express.firebaseio.com",
+    "project_id": "luka-express",
+    "storage_bucket": "luka-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55933705627:android:f2736ff4f783e1fd",
+        "android_client_info": {
+          "package_name": "com.lucatecno.lucaexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55933705627-br0vivnikg95eq8onga5lmqo2etuc5t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucatecno.lucaexpress",
+            "certificate_hash": "f625669a9efe98234dd2ad549361d6c2883fafdb"
+          }
+        },
+        {
+          "client_id": "55933705627-n5evfn9nmhnv301k6fgbfgkpj2nv1qom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAanE5YOjA35o5oquezr1IvT13mn-6be6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55933705627-n5evfn9nmhnv301k6fgbfgkpj2nv1qom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
