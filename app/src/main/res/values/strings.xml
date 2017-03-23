@@ -33,4 +33,10 @@
     <string name="reset_empty_emai">Ingresa tu dirección de Email para enviarte las instrucciones de recuperacion de contraseña</string>
     <string name="reset_password_msg">Hemos enviado a tu Email las instrucciones de recuperación de contraseña</string>
     <string name="reset_emai_send_error">No se ha podido enviar el Email de recuperación, intentalo más tarde</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="disconnect">Desconectar app</string>
+    <string name="signed_out">Sin sesión activa</string>
+    <string name="google_title_text">Firmar con Google</string>
+    <string name="google_status_fmt">Usuario Google:</string>
+    <string name="firebase_status_fmt">Usuario Firebase:</string>
 </resources>
